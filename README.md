@@ -1,10 +1,19 @@
-<div>
-
 <div align="center">
   
-# ✨ VTYUG 与光科技工作室 | VTYUG Tech Studio
+<h1>
+  <span style="background: linear-gradient(120deg, #2B32B2, #1488CC); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    VTYUG STUDIO
+  </span>
+</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=VTYUG%20Tech&fontSize=80&fontAlignY=35&animation=twinkling&desc=Illuminate%20the%20Future&descAlignY=50"/>
+### Engineering the Future
+
+<p align="center" style="font-style: italic; color: #1488CC;">
+  VTYUG = Vision · Technology · Youth · United · Growth<br>
+  愿景·科技·青春·团结·成长
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=VTYUG%20Studio&fontSize=80&fontAlignY=35&animation=twinkling&desc=Illuminate%20the%20Future&descAlignY=50&textBg=false&fontColor=ffffff"/>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=vtyug.studio)
 [![Stars](https://img.shields.io/github/stars/vtyug?style=social)](https://github.com/vtyug)
