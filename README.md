@@ -28,36 +28,55 @@
   <p>
     <a href="#"><img src="https://img.shields.io/badge/状态-开源项目-green?style=for-the-badge"></a>
     <a href="#"><img src="https://img.shields.io/badge/开源-MIT-blue?style=for-the-badge"></a>
+    <a href="#"><img src="https://img.shields.io/badge/RPC-Protobuf-orange?style=for-the-badge"></a>
   </p>
-  <p>专业的 API 测试工具，为开发者打造完美的调试体验</p>
+  <p>专业的 RPC 服务测试工具，为开发者打造高效的调试体验</p>
+  <div>
+    <p><strong>核心功能：</strong></p>
+    <ul align="left" style="display: inline-block;">
+      <li>🔍 支持服务反射，自动发现可用接口</li>
+      <li>📝 支持导入 Proto 文件进行精确测试</li>
+      <li>🛠️ 直观的界面设计，简化调试流程</li>
+      <li>📊 实时请求分析，快速定位问题</li>
+    </ul>
+  </div>
 </div>
 
 ## 🌈 项目特色
 
+<div align="center">
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">⚡️ 高性能</h3>
+    <td>
       <div align="center">
-        <img src="https://github.com/vtyug/vtyug/blob/output/github-contribution-grid-snake-dark.svg" width="100%">
+        <h3>⚡️ 高性能</h3>
+        <p align="center">
+          <img width="60" src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" />
+        </p>
+        <p>追求极致的性能体验<br>优化每一个细节</p>
       </div>
-      <p align="center">
-        追求极致的性能体验<br>
-        优化每一个细节
-      </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🔐 安全可靠</h3>
+    <td>
       <div align="center">
-        <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.gif" width="100%">
+        <h3>🛡️ 安全可靠</h3>
+        <p align="center">
+          <img width="60" src="https://media.giphy.com/media/2y98KScHKeaQM/giphy.gif" />
+        </p>
+        <p>严格的安全标准<br>可靠的系统架构</p>
       </div>
-      <p align="center">
-        严格的安全标准<br>
-        可靠的系统架构
-      </p>
+    </td>
+    <td>
+      <div align="center">
+        <h3>🚀 快速部署</h3>
+        <p align="center">
+          <img width="60" src="https://media.giphy.com/media/3oKIPweZXYYUe4kZUI/giphy.gif" />
+        </p>
+        <p>简单易用<br>即刻上手</p>
+      </div>
     </td>
   </tr>
 </table>
+</div>
 
 ## 🎨 创新亮点
 
