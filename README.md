@@ -1,10 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=vtyug&data=followers,repositories,stars,commits&theme=nautical" alt="GitHub Profile Stats"/>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=0E2A47&text=VTYUG%20STUDIO&height=100&fontSize=64&animation=fadeIn"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=64&duration=3000&pause=1000&color=0E2A47&center=true&vCenter=true&repeat=true&width=600&height=100&lines=VTYUG+STUDIO" alt="Typing SVG"/>
 
 <p align="center">
   <i>Vision · Technology · Youth · United · Growth</i><br>
@@ -69,6 +65,10 @@
   <a href="mailto:contact@vtyug.com"><img src="https://img.shields.io/badge/Email-2E5C8A?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/WeChat-0E2A47?style=for-the-badge&logo=wechat&logoColor=white"/></a>
 </p>
+
+<br>
+
+<img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=vtyug&data=followers,repositories,stars,commits&theme=nautical" alt="GitHub Profile Stats"/>
 
 <div align="center">
   <sub><sup>© 2024 VTYUG Studio. Built with 💙</sup></sub>
